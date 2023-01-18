@@ -20,7 +20,7 @@ Para utilizá-lo, basta clonar o repositório, compilar e executar.
 + GNU Make
 
 ### Modo de uso:
-+ Clone o repositório com o comando "*git clone https://github.com/GuilhermeSantos99/Gufos*"
++ Clone o repositório com o comando "*git clone https://github.com/OwlGuilherme/Gufos*"
 + Na pasta clonada, execute o comando "*make*" para compilar o código.
 + Execute o comando *./Gufos* para executar o programa.
 + Realize as edições desejadas e para encerrar, clique no botão de "Fechar"
